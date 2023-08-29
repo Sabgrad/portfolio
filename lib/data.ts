@@ -51,7 +51,7 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "JustLink",
     description:
       "I created this project while learning Next.js. User can share links in one place.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma", "NextAuth"],
