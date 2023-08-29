@@ -93,14 +93,14 @@ export default function Intro() {
         </a>
         <a className='bg-white text-gray-700 p-4 flex items-center rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-[1.15] transition group
         borderBlack hover:text-gray-950 dark:bg-white/10 dark:text-white/60'
-          href='https://linkedin.com'
+          href='https://www.linkedin.com/in/andriy-zhmudenko-a99211246/'
           target='_blank'
         >
           <BsLinkedin />
         </a>
         <a className='bg-white text-gray-700 p-4 flex items-center rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-[1.15] transition group
         borderBlack hover:text-gray-950 dark:bg-white/10 dark:text-white/60'
-          href='https://github.com'
+          href='https://github.com/Sabgrad'
           target='_blank'
         >
           <BsGithub />
